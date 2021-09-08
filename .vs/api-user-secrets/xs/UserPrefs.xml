@@ -3,9 +3,9 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="appsettings.json">
     <Files>
       <File FileName="api-user-secrets.csproj" Line="1" Column="1" />
-      <File FileName="Startup.cs" Line="1" Column="1" />
-      <File FileName="Controllers/SecretController.cs" Line="1" Column="1" />
-      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Startup.cs" />
+      <File FileName="Controllers/SecretController.cs" />
+      <File FileName="Program.cs" />
       <File FileName="appsettings.json" Line="1" Column="1" />
     </Files>
     <Pads>

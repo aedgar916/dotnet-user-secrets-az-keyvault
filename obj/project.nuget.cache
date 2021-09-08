@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "R9dJT0ZcnYrKOv2I+clIvGWWf0l708D15I6skN+wTC1x6Ju8Lx4QYLulNeQukzTXiheZQbGzK3MnRhgFEMvJpw==",
+  "dgSpecHash": "mnD8g/OL6YGrH5jN59XEEmfTt5+6XWzGvo33XlHfQ1L+Iu41Kt8p0U0PHbbZCYPJuOwzRpgw83zjcPFBorbkhQ==",
   "success": true,
   "projectFilePath": "/Users/amandaedgar/MSCodeCamp2021/dotnet-user-secrets-az-keyvault/api-user-secrets.csproj",
   "expectedPackageFiles": [
